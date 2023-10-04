@@ -73,6 +73,7 @@ public class User implements Serializable {
 	public String getLastName() {
 		return lastName;
 	}
+//test
 	public void setLastName(String lName) {
 		this.lastName = lName;
 	}
